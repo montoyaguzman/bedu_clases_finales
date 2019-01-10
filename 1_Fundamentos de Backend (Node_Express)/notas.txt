@@ -1,0 +1,34 @@
+Node 
+Es un entorno de ejecucion de JS para el servidor
+Motor V8
+Single Event Loop
+I/O sin bloqueo del stack
+Cuenta con un manejador de paquetes npm 
+Licencia MIT 
+
+ExpressJS
+Frameowrk de NodeJS 
+
+Modulos
+Librerias de JavaScript
+
+Codigos de respuestas Http
+https://http.cat/
+
+Convenciones de codificacion
+PascalCase
+cammelCase
+snake_case
+kebab-case 
+
+NPM 
+npm -y
+
+Partes de una peticion
++Method
++Headers
++Body 
+
+Katas
++ES6 Katas
++Koan
