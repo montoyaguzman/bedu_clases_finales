@@ -10,7 +10,8 @@ http.createServer((req, res) => {
         console.log(err)
       } else {
         // guardar el archivo
-        fs.writeFile("/files", "Hey there!", function(err) {
+        console.log('voy a subir tu archivo....')
+        fs.writeFile("./files", "Hey there!", function(err) {
           if(err) {
               return console.log(err);
           }
