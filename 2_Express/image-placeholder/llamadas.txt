@@ -1,0 +1,8 @@
+GET - HOLA MUNDO
+http://localhost:3000/
+
+GET - IMG
+http://localhost:3000/dimentions?dimentions=100x150
+
+GET - RECTANGLE
+http://localhost:3000/dimentions?dimentions=100x150&background=%2300897b

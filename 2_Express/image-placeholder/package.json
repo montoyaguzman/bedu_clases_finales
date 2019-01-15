@@ -1,0 +1,23 @@
+{
+  "name": "image-placeholder",
+  "version": "0.1.0",
+  "description": "Image placeholder generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "image",
+    "png",
+    "placeholder",
+    "generator"
+  ],
+  "author": "Ernesto Jiménez Villaseñor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hex-rgb": "^3.0.0",
+    "pngjs-image": "^0.11.7"
+  }
+}
